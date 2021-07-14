@@ -1,7 +1,7 @@
 # sudoku-creator
 An algorithm to create soduko puzzles.
 
-- [ ] Soduko creating algorithm
+- [x] Soduko creating algorithm
 - [ ] Soduko solver
 - [ ] Soduko Checker
 - [ ] Put everything together
